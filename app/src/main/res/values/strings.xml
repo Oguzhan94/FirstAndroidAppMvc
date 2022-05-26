@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hr200009_OguzhanGunduzFinal</string>
+    <string name="internetAlertTitle">İnternet Bağlantınız Yok</string>
+    <string name="internetAlertMessage">Uygulamayı kullanmak için internete bağlayın</string>
+    <string name="internetAlertNegativeButton">Kapat</string>
+    <string name="internetAlertPositiveButton">İnterneti Aç</string>
+    <string name="listScreenAlertTitle">Çıkmak istediğinize emin misiniz?</string>
+    <string name="listScreenAlertPositive">Evet</string>
+    <string name="listScreenAlertNegative">Hayır</string>
+    <string name="listScreenAlertMessage">Çıkış yapılıyor</string>
+    <string name="movieNameLabel">Film Adı:</string>
+    <string name="movieGenderLabel">Film Türü:</string>
+    <string name="movieStarLabel">Oyuncular:</string>
+    <string name="appInfoPhotoUrl">https://raw.githubusercontent.com/Oguzhan94/hr200009oguzhangunduz/main/appInfoPhoto.jpg</string>
+</resources>
